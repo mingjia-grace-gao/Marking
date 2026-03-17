@@ -10,8 +10,10 @@
        - GitHub战略：建立 `awesome-oceanbase`，Quick Start Kit(3分钟跑起来oceanbase)
        - Demo项目：AI Chat app + OceanBase，RAG + OceanBase
      - 社区：Discord、Reddit、X、github、Qitta
-     - 社交平台：LinkedIn高薪职位、Qiita、Zenn、Twitter、案例、活动回顾  
-     - 技术博客：深入讲解 HTAP、分布式事务、智能运维等核心技术  
+     - 招聘吸引：LinkedIn高薪职位
+     - 社交平台&技术博客：
+       - Qiita、Zenn、Twitter、案例、活动回顾
+       - 深入讲解 HTAP、分布式事务、智能运维等核心技术  
    - KOL 与社区联动
      - Benchmark、演示、youtube
      - 定期邀请核心开发者参与 AMA 或技术分享  
@@ -22,14 +24,14 @@
      - 收集有效开发者反馈，助力产品优化迭代  
 - 企业/渠道合作（SIer / 云厂商） → 企业落地和客户采购
    - 试点项目，提供免费技术支持 
-     - 难点：
-      - 企业信任问题(有人用 -> 我才用)
-      - 生态成熟度不足
-      - 技术团队习惯已有数据库（MySQL、PostgreSQL、Oracle）
+     - 难点
+       - 企业信任问题(有人用 -> 我才用)
+       - 生态成熟度不足
+       - 技术团队习惯已有数据库（MySQL、PostgreSQL、Oracle）
      - 解决方法
-      - 先从开发者社区和非核心业务入手
-      - 提供成功案例（Fintech、支付、电商）
-      - 与SIer建立信任 
+       - 先从开发者社区和非核心业务入手
+       - 提供成功案例（Fintech、支付、电商）
+       - 与SIer建立信任 
    - 真实用户故事
    - 与SIer合作，向客户提案
 - AI推广：但是在AI蓬勃发展的今天，开发者是否还会依赖传统的技术社区模式吗？还是直接问AIWhat is the best distributed database for fintech?
